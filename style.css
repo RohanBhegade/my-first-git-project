@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modern Home Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <nav class="navbar">
+            <div class="logo">BrandName</div>
+            <ul class="nav-links">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+
+        <section class="hero">
+            <div class="hero-content">
+                <h1>Build Something Amazing</h1>
+                <p>Create beautiful websites with modern design principles.</p>
+                <a href="#" class="btn">Get Started</a>
+            </div>
+        </section>
+    </header>
+
+    <section class="features">
+        <div class="card">
+            <h3>Fast</h3>
+            <p>Optimized performance for the best user experience.</p>
+        </div>
+
+        <div class="card">
+            <h3>Responsive</h3>
+            <p>Looks great on desktop, tablet, and mobile devices.</p>
+        </div>
+
+        <div class="card">
+            <h3>Modern</h3>
+            <p>Clean and elegant design with smooth interactions.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 BrandName. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
